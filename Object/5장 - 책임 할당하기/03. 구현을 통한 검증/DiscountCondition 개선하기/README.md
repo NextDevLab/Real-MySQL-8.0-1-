@@ -1,0 +1,3 @@
+﻿# DiscountCondition 개선하기
+
+이곳은 'DiscountCondition 개선하기'에 대한 노트와 정리를 위한 파일입니다.
